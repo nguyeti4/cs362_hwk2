@@ -1,5 +1,4 @@
-#To run: python filename.py
-
+#To run: python leap2.py
 def main():
     string = input("Enter a pos. int: ")
     if(string.isdigit()==True):
