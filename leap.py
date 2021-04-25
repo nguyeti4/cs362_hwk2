@@ -1,4 +1,4 @@
-#To run: python filename.py
+#To run: python leap.py
 
 def main():
     num = int(input("Enter a pos. int: "))
