@@ -1,4 +1,5 @@
 #To run: python leap2.py
+#edge cases: input a string, intput a negative number
 def main():
     string = input("Enter a pos. int: ")
     if(string.isdigit()==True):
